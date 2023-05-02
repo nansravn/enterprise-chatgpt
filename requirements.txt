@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+langchain
+playwright
+unstructured
+tiktoken
+azure-identity==1.13.0b4
+azure-search-documents==11.4.0b3
+azure-ai-formrecognizer==3.2.1
+azure-storage-blob==12.16.0
+python-dotenv==1.0.0
